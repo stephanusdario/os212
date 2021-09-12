@@ -8,5 +8,5 @@ permalink: /LINKS/
 
 2. [Twitter](https://twitter.com/stephanus_dario)
 
-3. Line 
+3. Line\
    @stephanusdario555
