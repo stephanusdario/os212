@@ -2,7 +2,7 @@
 permalink: /LINKS/
 ---
 
-# LINKS\
+# LINKS
 1. [Operating System](https://os.vlsm.org/)\
 This is the most usefull site for my Operating System class
 
