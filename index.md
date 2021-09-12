@@ -1,5 +1,5 @@
 ### Operating Systems 2021-2 (Odd Semester 2021/2022)
 
-[Home](https://github.com/stephanusdario) | [Log](TXT/mylog.txt) | [Social Media](/socialMedia.md) | [Links](links.md) | [Repository](https://github.com/stephanusdario/os212/)
+[Home](https://github.com/stephanusdario) | [Log](TXT/mylog.txt) | [Social Media](/socialMedia.md) | [Links](web.md) | [Repository](https://github.com/stephanusdario/os212/)
 
 Hello, my name is Stephanus Dario, and welcome to my Github page :)
