@@ -2,9 +2,11 @@
 permalink: /LINKS/
 ---
 
-# LINKS
-1. [Operating System](https://os.vlsm.org/)\
-This is the most usefull site for my Operating System class
+# Social Media
+##Feel free to connect with me, and contact these account to find me :)
+1. [Instagram](https://www.instagram.com/stephanus_dario/?hl=id)
 
-2. [Operating System Basics](https://www.studytonight.com/operating-system/)\
-This website provides you basics to understand all about operating system
+2. [Twitter](https://twitter.com/stephanus_dario)
+
+3. Line 
+   @stephanusdario555
