@@ -8,3 +8,6 @@ This is the most usefull site for my Operating System class
 
 2. [Operating System Basics](https://www.studytonight.com/operating-system/)\
 This website provides you basics to understand all about operating system
+
+3. [VIM Cheatsheet](https://devhints.io/vim)\
+If you are new to VIM, here are some cheatsheet u might want to know
