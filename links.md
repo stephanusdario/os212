@@ -20,3 +20,9 @@ If you are totally new to C language, you should try to learn from this web
 
 6. [C Cheatsheet](https://developerinsider.co/c-programming-language-cheat-sheet/)\
 This website will give you some cheat sheet for anything C related
+
+7.[Data Representation In Computer](https://home.adelphi.edu/~siegfried/cs170/170l1.pdf)\
+If you willing to know more about how computer representing data, you should check this out
+
+8.[Bit, Bytes, and Words](https://codesteps.com/2018/08/11/computer-concepts-bits-bytes-and-words/)\
+Since computer stored everything in number, you will get better understanding about it's concept here
