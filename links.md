@@ -18,7 +18,7 @@ This website will give you some cheat sheet for anything java related
 5. [C Tutorial](https://www.tutorialspoint.com/cprogramming/index.htm)\
 If you are totally new to C language, you should try to learn from this web
 
-6. [C Cheatsheet](https://developerinsider.co/c-programming-language-cheat-sheet/)\
+ 6. [C Cheatsheet](https://developerinsider.co/c-programming-language-cheat-sheet/)\
 This website will give you some cheat sheet for anything C related
 
 7.[Data Representation In Computer](https://home.adelphi.edu/~siegfried/cs170/170l1.pdf)\
