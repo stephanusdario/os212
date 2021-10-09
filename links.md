@@ -1,7 +1,6 @@
 ---
 permalink: /LINKS/
 ---
-
 # LINKS
 1. [Operating System](https://os.vlsm.org/)\
 This is the most usefull site for my Operating System class
@@ -26,3 +25,9 @@ If you willing to know more about how computer representing data, you should che
 
 8.[Bit, Bytes, and Words](https://codesteps.com/2018/08/11/computer-concepts-bits-bytes-and-words/)\
 Since computer stored everything in number, you will get better understanding about it's concept here
+
+9.[Virtual Memory] (https://searchstorage.techtarget.com/definition/virtual-memory)\
+If you want to know more about virtual memory in operating system, you should read this
+
+10.[Memory Allocation Algorithms] (https://valelab4.ucsf.edu/svn/3rdpartypublic/boost/doc/html/interprocess/memory_algorithms.html)\
+Since we study about memory in operating system, you also should read this

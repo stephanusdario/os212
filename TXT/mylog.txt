@@ -38,4 +38,8 @@ ZCZC W04  55 L11 Assignment #01
 ZCZC W04  25 L22 Quiz 
 ZCZC W04  60 L06 References/Books/Documents/GSGS related
 ZCZC W04  120 L62 Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W05  10 L01 SCELE/Discord related
+ZCZC W05  100 L02 ZOOM meetings related
+ZCZC W05  55 L11 Assignment #01
+ZCZC W05  25 L22 Quiz 
 
