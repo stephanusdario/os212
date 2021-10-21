@@ -42,4 +42,11 @@ ZCZC W05  10 L01 SCELE/Discord related
 ZCZC W05  100 L02 ZOOM meetings related
 ZCZC W05  55 L11 Assignment #01
 ZCZC W05  25 L22 Quiz 
+ZCZC W06  10 L01 SCELE/Discord related
+ZCZC W06  100 L02 ZOOM meetings related
+ZCZC W06 60 L11 Assignment #01
+ZCZC W06 60 L12 Assignment #02
+ZCZC W06 60 L13 Assignment #03
+ZCZC W06 30 L14 Assignment #04
+ZCZC W06 60 L15 Assignment #05
 
