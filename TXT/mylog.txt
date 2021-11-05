@@ -49,4 +49,11 @@ ZCZC W06 60 L12 Assignment #02
 ZCZC W06 60 L13 Assignment #03
 ZCZC W06 30 L14 Assignment #04
 ZCZC W06 60 L15 Assignment #05
+ZCZC W07  10 L01 SCELE/Discord related
+ZCZC W07  100 L02 ZOOM meetings related
+ZCZC W07 60 L11 Assignment #01
+ZCZC W07 60 L12 Assignment #02
+ZCZC W07 60 L13 Assignment #03
+ZCZC W07 30 L14 Assignment #04
+ZCZC W07 60 L15 Assignment #05
 

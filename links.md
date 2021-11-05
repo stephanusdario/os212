@@ -26,14 +26,20 @@ If you willing to know more about how computer representing data, you should che
 8.[Bit, Bytes, and Words](https://codesteps.com/2018/08/11/computer-concepts-bits-bytes-and-words/)\
 Since computer stored everything in number, you will get better understanding about it's concept here
 
-9.[Virtual Memory] (https://searchstorage.techtarget.com/definition/virtual-memory)\
+9.[Virtual Memory](https://searchstorage.techtarget.com/definition/virtual-memory)\
 If you want to know more about virtual memory in operating system, you should read this
 
-10.[Memory Allocation Algorithms] (https://valelab4.ucsf.edu/svn/3rdpartypublic/boost/doc/html/interprocess/memory_algorithms.html)\
+10.[Memory Allocation Algorithms](https://valelab4.ucsf.edu/svn/3rdpartypublic/boost/doc/html/interprocess/memory_algorithms.html)\
 Since we study about memory in operating system, you also should read this
 
-11.[Threads and Concurrency] (https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)\
+11.[Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)\
 If we study about operating systems, eventually we will find things about thread and concurrency, and you should read this to understand more about it
 
-12.[Threads vs Processes] (https://www.backblaze.com/blog/whats-the-diff-programs-processes-and-threads/)\
-After we know about threads and concurrency, we also need to know the difference between processes in operating systems, you should read this article to understand more about it
+12.[Threads vs Processes](https://www.backblaze.com/blog/whats-the-diff-programs-processes-and-threads/)\
+After we know about threads and concurrency, we also need to know the difference between processes in operating systems, you should read this article to understand more about it.
+
+13. [Synchronization](https://study.com/academy/lesson/process-synchronization-in-operating-systems-definition-mechanisms.html#:~:text=Process%20Synchronization%20is%20a%20way,operating%20system%20among%20cooperating%20processes.&text=While%20executing%20many%20concurrent%20processes,consistency%20and%20cooperating%20process%20execution.)\
+If you need more about operating system synchronization, you need to read this.
+
+14. [Deadlock](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)\
+You should read this article about deadlock in operating system.
