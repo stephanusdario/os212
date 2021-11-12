@@ -43,3 +43,10 @@ If you need more about operating system synchronization, you need to read this.
 
 14. [Deadlock](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)\
 You should read this article about deadlock in operating system.
+
+15.[Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm#:~:text=Definition,of%20a%20Multiprogramming%20operating%20systems.)\
+This web will help you to understand more about operating system scheduling.
+
+16. [State Model](https://slaystudy.com/process-state-models-in-operating-system/)\
+You should read this article about state models in operating system.
+
