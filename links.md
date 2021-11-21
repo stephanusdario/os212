@@ -50,3 +50,9 @@ This web will help you to understand more about operating system scheduling.
 16. [State Model](https://slaystudy.com/process-state-models-in-operating-system/)\
 You should read this article about state models in operating system.
 
+17.[Bootloader](https://www.ionos.com/digitalguide/server/configuration/what-is-a-bootloader/)\
+This web will help you to understand more about bootloader in operating system.
+
+18. [Systemd](http://systemd.io/)\
+You should read this article about systemd.
+
